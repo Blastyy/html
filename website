@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<title>Blasty</title>
+  </head>
+  <body>
+    <header>
+		<img src="img/logo.png" alt="" width="100" height="100
+        " align="left"/>
+        <h1 align="left">Blastyy</h1>
+    </header>
+	<hr>
+    <section>
+	<p>15 ans, lycéen à plein temps. Débutant en HTML/CSS. PP by Raven Sunshine</p>
+    </section>
+	<footer style="font-style: italic; font-family: Consolas, 'Andale Mono', 'Lucida Console', 'Lucida Sans Typewriter', Monaco, 'Courier New', monospace;">2014 - Site crée en HTML5/CSS3 avec Adobe Dreamweaver</footer>
+ 
+  </body>
+</html>
